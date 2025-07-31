@@ -1,0 +1,18 @@
+/* Search.module.css */
+.container {
+    padding: 2rem;
+  }
+  .loading {
+    padding: 2rem;
+    text-align: center;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(240px,1fr));
+    gap: 1rem;
+  }
+  .card {
+    border: 1px solid #ddd;
+    padding: 1rem;
+  }
+  
